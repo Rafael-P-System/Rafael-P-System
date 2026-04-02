@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia e análise de dados.
 Atualmente desenvolvo projetos em **Python**, com foco em **Dash, Plotly e Pandas**, criando dashboards interativos e soluções para visualização de informações.  
 Também estou estudando **Java com Spring Boot** para fortalecer minhas habilidades em back-end.  
 
-Separadamente, estou aprendendo **Front-end** com **React, JavaScript, CSS e HTML**, além de trabalhar com **Node.js e Express** para aplicações completas.
+Separadamente, estou aprendendo **Front-end** com **React, React Nativi, Expo, JavaScript, CSS e HTML**, além de trabalhar com **Node.js e Express** para aplicações completas.
 
 🚀 Sempre buscando aprender mais e aplicar conhecimento em projetos práticos.
 
