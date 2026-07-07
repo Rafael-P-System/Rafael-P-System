@@ -1,55 +1,43 @@
 # 👋 Olá, eu sou Rafael!
 
-Sou apaixonado por tecnologia e análise de dados.  
-Atualmente desenvolvo projetos em **Python**, com foco em **Dash, Plotly e Pandas**, criando dashboards interativos e soluções para visualização de informações.  
-Também estou estudando **Java com Spring Boot** para fortalecer minhas habilidades em back-end.  
+Sou apaixonado por tecnologia e desenvolvimento de software.
 
-Separadamente, estou aprendendo **Front-end** com **React, React Nativi, Expo, JavaScript, CSS e HTML**, além de trabalhar com **Node.js e Express** para aplicações completas.
+Atualmente desenvolvo projetos utilizando **Java**, **Spring Boot**, **React**, **React Native**, **Python** e bancos de dados relacionais, criando APIs REST, aplicações web e soluções completas.
 
-🚀 Sempre buscando aprender mais e aplicar conhecimento em projetos práticos.
+Tenho experiência com arquitetura em camadas, desenvolvimento back-end, integração entre sistemas, bancos de dados, versionamento com Git e construção de interfaces modernas.
 
----
+🚀 Estou sempre buscando evoluir minhas habilidades por meio de projetos práticos, estudando novas tecnologias e aplicando boas práticas de desenvolvimento de software.
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-linkedin)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/seu-instagram)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rafael-P-System)
+💻 Back-end e Dados
+Java
+Spring Boot
+Python
+Pandas
+Node.js
+Express.js
+MySQL
+PostgreSQL
+🎨 Front-end
+React
+React Native
+JavaScript
+HTML5
+CSS3
 
----
+🛠 Ferramentas
+Acrescente, além de Git e VS Code:
+Git
+GitHub
+Docker
+Postman
+VS Code
+📌 Projetos em destaque
 
-## 💻 Back-end & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+Barbearia API – API REST desenvolvida com Java e Spring Boot.
+🏦 Friendes Bank – Sistema bancário com login, PIX, empréstimos, cartões e extrato.
+✈️ Sistema de Milhas – Plataforma para gerenciamento de compra, venda e troca de milhas.
+📊 Análise de Dados – Projetos em Python utilizando Pandas e Matplotlib.
 
----
+✨ Obrigado por visitar meu perfil!
 
-## 🎨 Front-end
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
--Typescript 
-
----
-
-## 🛠 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Projetos em destaque
-- [Dashboard da Mercearia](https://github.com/Rafael-P-System/Dashboard-da-Mercearia)  
-- Outros projetos de análise de dados e desenvolvimento web em breve!
-
----
-
-✨ Obrigado por visitar meu perfil!  
-Aqui você encontra meus projetos e minha evolução como desenvolvedor.
+Aqui você encontrará meus projetos, minha evolução como desenvolvedor e as tecnologias que utilizo para construir soluções modernas e escaláveis.
